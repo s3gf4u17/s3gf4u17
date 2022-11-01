@@ -37,9 +37,9 @@ STILL LEARNING
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
+![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=szkolakowski&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&card_width=50%&hide_title=true&cache_seconds=14400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkolakowski&layout=compact&theme=dark&hide_border=true&include_all_commits=true&cache_seconds=14400)
