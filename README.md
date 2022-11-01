@@ -46,3 +46,8 @@ STILL LEARNING
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat-square&logo=elixir&logoColor=white)
+
+STATS
+
+![](https://github-readme-stats.vercel.app/api?username=szkolakowski&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=szkolakowski&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
