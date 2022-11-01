@@ -41,5 +41,5 @@ STILL LEARNING
 ![ApacheCassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
 ![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=szkolakowski&show_icons=true&theme=dark&hide_border=true&card_width=50%&hide_title=true&cache_seconds=14400&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=szkolakowski&show_icons=true&theme=dark&hide_border=true&card_width=50%&hide_title=true&cache_seconds=14400&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szkolakowski&layout=compact&theme=dark&hide_border=true&include_all_commits=true&cache_seconds=14400)
