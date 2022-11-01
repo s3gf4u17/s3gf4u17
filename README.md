@@ -43,4 +43,4 @@ STILL LEARNING
 
 STATS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szkolakowski&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szkolakowski&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&card_width=50%)
