@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @szkolakowski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
 LANGUAGES
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
@@ -49,4 +43,4 @@ STILL LEARNING
 
 STATS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szkolakowski&show_icons=true&theme=transparent&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szkolakowski&show_icons=true&theme=transparent&hide_border=true&count_private=true)
