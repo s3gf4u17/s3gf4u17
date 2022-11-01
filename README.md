@@ -28,8 +28,8 @@ TOOLS
 
 STILL LEARNING
 
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23323330.svg?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23323330.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?style=flat-square&logo=elixir&logoColor=white)
