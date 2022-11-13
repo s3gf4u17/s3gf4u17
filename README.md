@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-276DC3?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+cassandra
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)-->
 
 MAIN STACK
@@ -37,5 +38,4 @@ OTHER TOOLS
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
