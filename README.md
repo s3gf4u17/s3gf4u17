@@ -20,6 +20,16 @@ LEARNING
 
 [Neuroscience of free will](https://en.wikipedia.org/wiki/Neuroscience_of_free_will)
 
+*"A problem is an emotional state. Without emotions, it is just a situation."*
+
+*"Progress is noticeable when the question that tortured us has lost its meaning."*
+
+*"Fear is a state and the product of our imagination of the future and its consequences where the present is suppressed."*
+
+*"The difference between a winner and a loser is that the winner has lost more often than the loser."*
+
+*"The most important and most difficult thing in any situation is not the search for the right answer but the search for the right question."*
+
 MAIN STACK
 
 ![Elementary OS](https://img.shields.io/badge/-Elementary%20OS-323330?style=flat-square&logo=elementary&logoColor=white)
