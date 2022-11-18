@@ -12,12 +12,8 @@ cassandra
 
 LEARNING
 
-| [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) | [Learning pyramid](https://en.wikipedia.org/wiki/Learning_pyramid) |
-| ----- | ----- |
-
-[Learn a skill in 20 hours](https://ideas.ted.com/dont-have-10000-hours-to-learn-something-new-thats-fine-all-you-need-is-20-hours/)
-
-[Neuroscience of free will](https://en.wikipedia.org/wiki/Neuroscience_of_free_will)
+| [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) | [Learning pyramid](https://en.wikipedia.org/wiki/Learning_pyramid) | [Learn a skill in 20 hours](https://ideas.ted.com/dont-have-10000-hours-to-learn-something-new-thats-fine-all-you-need-is-20-hours/) | [Neuroscience of free will](https://en.wikipedia.org/wiki/Neuroscience_of_free_will) |
+| ----- | ----- | ----- | ----- |
 
 *"Progress is noticeable when the question that tortured us has lost its meaning."*
 
