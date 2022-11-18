@@ -10,6 +10,16 @@
 cassandra
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)-->
 
+LEARNING
+
+[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle)
+
+[Learning pyramid](https://en.wikipedia.org/wiki/Learning_pyramid)
+
+[Learn a skill in 20 hours](https://ideas.ted.com/dont-have-10000-hours-to-learn-something-new-thats-fine-all-you-need-is-20-hours/)
+
+[Neuroscience of free will](https://en.wikipedia.org/wiki/Neuroscience_of_free_will)
+
 MAIN STACK
 
 ![Elementary OS](https://img.shields.io/badge/-Elementary%20OS-323330?style=flat-square&logo=elementary&logoColor=white)
