@@ -17,6 +17,7 @@ cassandra
 ![Python](https://img.shields.io/badge/Python-276DC3?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 | [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) | [Learning pyramid](https://en.wikipedia.org/wiki/Learning_pyramid) | [Learn a skill in 20 hours](https://ideas.ted.com/dont-have-10000-hours-to-learn-something-new-thats-fine-all-you-need-is-20-hours/) | [Neuroscience of free will](https://en.wikipedia.org/wiki/Neuroscience_of_free_will) |
 | ----- | ----- | ----- | ----- |
@@ -39,5 +40,4 @@ cassandra
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=linode&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
