@@ -28,8 +28,7 @@ cassandra
 
 *"Progress is noticeable when the question that tortured us has lost its meaning."*
 
-![Raspberry Pi 4](https://img.shields.io/badge/-RaspberryPi4-323330?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![Raspberry Pi Pico](https://img.shields.io/badge/-RaspberryPiPico-323330?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-323330?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23323330.svg?style=flat-square&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-323330?style=flat-square&logo=fastapi&logoColor=white)
