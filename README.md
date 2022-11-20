@@ -28,6 +28,8 @@ cassandra
 
 *"Progress is noticeable when the question that tortured us has lost its meaning."*
 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-323330?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
@@ -38,7 +40,6 @@ cassandra
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-squaree&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=linode&logoColor=white)
