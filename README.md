@@ -36,6 +36,6 @@ cassandra
 ![Django](https://img.shields.io/badge/Django-%23323330.svg?style=flat-square&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23323330.svg?style=flat-squaree&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23323330.svg?style=flat-square&logo=nginx&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-%323330?style=flat-square&logo=selenium&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-%23323330?style=flat-square&logo=selenium&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23323330.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23323330.svg?style=flat-square&logo=latex&logoColor=white)
