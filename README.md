@@ -28,6 +28,9 @@ cassandra
 
 *"Progress is noticeable when the question that tortured us has lost its meaning."*
 
+| [HackTheBox](https://app.hackthebox.com/profile/1299860) |
+| - |
+
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-323330?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23323330.svg?style=flat-square&logo=react&logoColor=white)
