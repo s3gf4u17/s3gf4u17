@@ -28,8 +28,8 @@ cassandra
 
 *"Progress is noticeable when the question that tortured us has lost its meaning."*
 
-| [HackTheBox](https://app.hackthebox.com/profile/1299860) | [TryHackMe](https://tryhackme.com/p/s3gf4u17) |
-| - | - |
+| [HackTheBox](https://app.hackthebox.com/profile/1299860) | [TryHackMe](https://tryhackme.com/p/s3gf4u17) | [LeetCode](https://leetcode.com/s3gf4u17/) |
+| - | - | - |
 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-323330?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white)
