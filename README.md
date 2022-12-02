@@ -16,6 +16,7 @@ cassandra
 
 ![Elementary OS](https://img.shields.io/badge/-Elementary%20OS-323330?style=flat-square&logo=elementary&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=%23323330)
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
