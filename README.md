@@ -1,4 +1,5 @@
 ![Bash](https://img.shields.io/badge/Bash-%23323330.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23323330.svg?style=flat-square&logo=django&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
