@@ -2,6 +2,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
 
 ![Elementary OS](https://img.shields.io/badge/-Elementary%20OS-323330?style=flat-square&logo=elementary&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
@@ -16,7 +19,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 
 | [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) | [Learning pyramid](https://en.wikipedia.org/wiki/Learning_pyramid) | [Learn a skill in 20 hours](https://ideas.ted.com/dont-have-10000-hours-to-learn-something-new-thats-fine-all-you-need-is-20-hours/) | [Neuroscience of free will](https://en.wikipedia.org/wiki/Neuroscience_of_free_will) | [LeetCode](https://leetcode.com/s3gf4u17/) |
@@ -27,5 +29,3 @@
 ![React](https://img.shields.io/badge/React-%23323330.svg?style=flat-square&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-323330?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23323330.svg?style=flat-square&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23323330.svg?style=flat-square&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23323330.svg?style=flat-square&logo=latex&logoColor=white)
