@@ -11,7 +11,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ![Elementary OS](https://img.shields.io/badge/-Elementary%20OS-323330?style=flat-square&logo=elementary&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-323330?style=flat-square&logo=fastapi&logoColor=white)
