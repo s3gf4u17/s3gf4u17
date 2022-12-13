@@ -18,14 +18,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=%23323330)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 
-
+## Other tools
 
 ![Django](https://img.shields.io/badge/django-%23323330.svg?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23323330.svg?style=flat-square&logo=react&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-323330?style=flat-square&logo=fastapi&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
