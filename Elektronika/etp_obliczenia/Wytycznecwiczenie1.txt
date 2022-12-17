@@ -1,4 +1,0 @@
-1. Pierwsza zak�adka: obliczenie ng i Ng dla d�ugo�ci fali od 400 do 1100 nm. Wykonanie wykres�w zale�no�ci wsp�czynnik�w od d�ugo�ci fali, Wygenerowanie tabeli co 10 nm
-2. druga zak�adka: Obliczenie poprawki atmosferycznej: dane wprowadzane przez u�ytkownika: d�ugo�c fali w nm, temperatura sucha, temperatura mokra  (st C), ci�nienie w hPa, pomierzona d�ugo�� [m]. Wy�wietlanie: poprawka na km, d�ugo�� poprawiona [m}]
-3. obliczenie poprawki dla danych z pliku csv (lp;ts;tm,p, dl) tab. wynikowa (lp;popr/km;odl popr.)
-4. trzecia zak�adka: Obliczenie r�nicy mi�dzy �ukiem a ci�ciw� [wynik w mm] dla przedzia�u od 1 km do 100 km. Zrobienie wykresu i wygenerowanie tabeli z wynikami (co 1 km) 

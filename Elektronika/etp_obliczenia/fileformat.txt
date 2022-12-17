@@ -1,1 +1,0 @@
-id_zestawu_danych;dlugosc_fali;temp_sucha;temp_mokra;cisnienie;pomierzona_odleglosc
