@@ -1,0 +1,2 @@
+120 120 - nie nalezy
+200 400 - nalezy
