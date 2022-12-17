@@ -2,7 +2,7 @@ Born to do backend, forced to be a full stack.
 
 *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."*
 
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white)
+![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=flat-square&logo=elementary&logoColor=white)
 
 ![Bash](https://img.shields.io/badge/Bash-%23323330.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
