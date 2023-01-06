@@ -1,8 +1,8 @@
 Born to do backend, forced to be a full stack.
 
-*"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."*
+<!-- *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."* -->
 
-![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=flat-square&logo=elementary&logoColor=white)
+<!-- ![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=flat-square&logo=elementary&logoColor=white)
 
 ![Bash](https://img.shields.io/badge/Bash-%23323330.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -29,3 +29,4 @@ Born to do backend, forced to be a full stack.
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+ -->
