@@ -8,6 +8,8 @@ sudo ubuntu-drivers install nvidia:535
 sudo ubuntu-drivers install --gpgpu
 sudo ubuntu-drivers install --gpgpu nvidia:535-server
 sudo apt install nvidia-utils-535-server
+gsettings set org.gnome.shell.extensions.desktop-icons show-home false
+gsettings set org.gnome.shell.extensions.desktop-icons show-trash false
 ```
 
 <!--
