@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```
+sudo ubuntu-drivers list
+sudo ubuntu-drivers list --gpgpu
+sudo ubuntu-drivers install
+sudo ubuntu-drivers install nvidia:535
+sudo ubuntu-drivers install --gpgpu
+sudo ubuntu-drivers install --gpgpu nvidia:535-server
+sudo apt install nvidia-utils-535-server
+```
+
 <!--
 **s3gf4u17/s3gf4u17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
