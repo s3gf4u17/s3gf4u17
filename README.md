@@ -9,8 +9,12 @@ sudo cp ~/Documents/linux-firmware/amdgpu/* /lib/firmware/amdgpu && sudo update-
 nvidia-smi
 # remove old nvidia
 sudo apt autoremove nvidia* --purge
+sudo apt remove --purge '^nvidia-.*'
+sudo apt remove --purge '^libnvidia-.*'
 sudo /usr/bin/nvidia-uninstall
 sudo /usr/local/cuda-X.Y/bin/cuda-uninstall
+# check if blacklisted
+grep blacklist /etc/modprobe.d/* /lib/modprobe.d/*
 # install nvidia
 sudo apt install software-properties-common -y
 sudo add-apt-repository contrib non-free-firmware
